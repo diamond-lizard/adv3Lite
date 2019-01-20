@@ -1,0 +1,5 @@
+Adv3Lite is an alternative library for TADS 3, created by Eric Eve
+
+This repo is a mirror of [[http://www.ifarchive.org/if-archive/programming/tads3/library/contributions/adv3Lite.zip][adv3Lite.zip]] from [[http://www.ifarchive.org/indexes/if-archiveXprogrammingXtads3XlibraryXcontributions.html][if-archive/programming/tads3/library/contributions]]
+
+For more information on Adv3Lite, see [[http://users.ox.ac.uk/~manc0049/TADSGuide/adv3Lite.htm][here]].
